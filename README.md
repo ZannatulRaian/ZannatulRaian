@@ -95,10 +95,12 @@ Relevant coursework: Software Engineering, Data Structures & Algorithms, Databas
 
 <div align="center">
 
-![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZannatulRaian&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
 
-![GitHub streak](https://streak-stats.demolab.com?user=ZannatulRaian&theme=tokyonight&hide_border=true)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=contribs" alt="GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="180" />
 
 </div>
 
