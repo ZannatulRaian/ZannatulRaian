@@ -4,11 +4,7 @@
 
 📍 Bangladesh &nbsp;|&nbsp; 📫 [zannatulraian@gmail.com](mailto:zannatulraian@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zannatulraian)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zannatulraian@gmail.com)
-
-
----
 
 ## 🧑‍💻 About Me
 
@@ -63,14 +59,15 @@ I'm a Computer Science & Engineering student with experience building desktop, w
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **UniSync** <br> *Jan 2026 - Present* | Cross-platform mobile app for students and faculty with authentication, announcements, chat, and resource sharing, backed by real-time data. | Flutter, Dart, Supabase |
-| **CampusShare** <br> *Aug 2025 - Dec 2025* | Desktop platform for academic resource sharing with announcements, file sharing, and event management modules. | Java, Swing, PostgreSQL, SQLite |
-| **Elevator Simulation** <br> *May 2025 - Jun 2025* | Multi-floor elevator simulation with animated movement, passenger scheduling, and real-time visualization. | Java, Swing, AWT |
-| **SecureVault** <br> *Jan 2025 - Mar 2025* | Password manager with AES-encrypted credential storage, available as both GUI and terminal versions. | Java, AES Encryption |
-| **Bookstore Management System** <br> *Aug 2024 - Oct 2024* | CRUD web app with inventory management, search, pagination, and responsive Blade templates. | Laravel, PHP, MySQL |
-| **Modern Java Chat Application** <br> *Mar 2024 - May 2024* | Multi-client real-time chat using sockets and multithreading for concurrent communication. | Java, Swing, Sockets |
+
+| Project                                                     | Description                                                                                                                                  | Tech                            |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **UniSync** <br> *Jan 2026 - Present*                       | Cross-platform mobile app for students and faculty with authentication, announcements, chat, and resource sharing, backed by real-time data. | Flutter, Dart, Supabase         |
+| **CampusShare** <br> *Aug 2025 - Dec 2025*                  | Desktop platform for academic resource sharing with announcements, file sharing, and event management modules.                               | Java, Swing, PostgreSQL, SQLite |
+| **Elevator Simulation** <br> *May 2025 - Jun 2025*          | Multi-floor elevator simulation with animated movement, passenger scheduling, and real-time visualization.                                   | Java, Swing, AWT                |
+| **SecureVault** <br> *Jan 2025 - Mar 2025*                  | Password manager with AES-encrypted credential storage, available as both GUI and terminal versions.                                         | Java, AES Encryption            |
+| **Bookstore Management System** <br> *Aug 2024 - Oct 2024*  | CRUD web app with inventory management, search, pagination, and responsive Blade templates.                                                  | Laravel, PHP, MySQL             |
+| **Modern Java Chat Application** <br> *Mar 2024 - May 2024* | Multi-client real-time chat using sockets and multithreading for concurrent communication.                                                   | Java, Swing, Sockets            |
 
 ---
 
@@ -97,7 +94,7 @@ Relevant coursework: Software Engineering, Data Structures & Algorithms, Databas
 
 <div align="center">
 
-![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true)
+![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=ZannatulRaian&theme=tokyonight&hide_border=true)
