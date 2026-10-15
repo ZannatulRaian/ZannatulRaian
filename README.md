@@ -1,12 +1,9 @@
 <div align="center">
-
-<img src="profile-pixelated.png" alt="Zannatul Raian" width="220" />
-
 # Hi, I'm Zannatul Raian 👋
 
 ### Aspiring Software Engineer | Computer Science & Engineering Student
 
-📍 Sherpur, Bangladesh &nbsp;|&nbsp; 📫 [zannatulraian@gmail.com](mailto:zannatulraian@gmail.com)
+📍 Bangladesh &nbsp;|&nbsp; 📫 [zannatulraian@gmail.com](mailto:zannatulraian@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zannatulraian)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zannatulraian@gmail.com)
