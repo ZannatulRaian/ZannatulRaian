@@ -1,25 +1,42 @@
-# Hi, I'm Zannatul Raian 👋
+<div align="center">
 
-### Aspiring Software Engineer | Computer Science & Engineering Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Zannatul%20Raian&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=%3E%20COMPILING%20GREATNESS...%20100%25%20%3C&descSize=18&descAlignY=70" alt="banner" />
 
-📍 Bangladesh &nbsp;|&nbsp; 📫 [zannatulraian@gmail.com](mailto:zannatulraian@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&lines=Aspiring+Software+Engineer;CSE+Student+%7C+Class%3A+Builder;Desktop+%2B+Web+%2B+Mobile+%2B+AI;Press+START+to+explore" alt="typing animation" />
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zannatulraian@gmail.com)
+<br>
 
-## 🧑‍💻 About Me
+[![Gmail](https://img.shields.io/badge/INSERT_COIN-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zannatulraian@gmail.com)
 
-I'm a Computer Science & Engineering student with experience building desktop, web, mobile, and AI applications. I'm interested in software engineering, system design, and scalable application development, and I learn best by building real projects.
+</div>
 
-- 🎓 B.Sc. in CSE, expected graduation **2027**
-- 🔭 Currently building **UniSync**, a university collaboration mobile app
-- 🌱 Exploring system design and scalable architectures
-- 💬 Ask me about Java, Flutter, Laravel, or Python
+▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓
 
----
+## 🎮 Player Profile
 
-## 🛠️ Tech Stack
+```text
++----------------------------------------------+
+|  NAME     : Zannatul Raian                   |
+|  CLASS    : Software Engineer (in training)  |
+|  HOME     : Bangladesh                       |
+|  GUILD    : B.Sc. CSE, graduating 2027       |
+|  MAIN QUEST : UniSync (in progress)          |
+|  ABILITIES: Java, Flutter, Laravel, Python   |
+|  STATUS   : Open to internships & co-op      |
++----------------------------------------------+
+```
 
-**Languages**
+I build desktop, web, mobile, and AI apps, and I level up best by shipping real projects. Currently exploring system design and scalable architectures.
+
+- 🔭 Now playing: **UniSync**, a university collaboration mobile app
+- 🌱 Grinding: system design and scalable application development
+- 💬 Ask me about: Java, Flutter, Laravel, or Python
+
+▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓
+
+## 🎒 Inventory (Tech Stack)
+
+**⚔️ Weapons (Languages)**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +48,7 @@ I'm a Computer Science & Engineering student with experience building desktop, w
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**🛡️ Armor (Frameworks & Libraries)**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -39,72 +56,71 @@ I'm a Computer Science & Engineering student with experience building desktop, w
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Databases & Backend**
+**🏰 Storage Vaults (Databases & Backend)**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**
+**🧰 Gadgets (Tools)**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-**Core Skills:** OOP, Data Structures & Algorithms, REST API Development, Socket Programming, Software Design, Database Design, Software Testing, Agile Development, Technical Documentation
+**✨ Passive Skills:** OOP, Data Structures & Algorithms, REST API Development, Socket Programming, Software Design, Database Design, Software Testing, Agile Development, Technical Documentation
 
----
+▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓
 
-## 🚀 Featured Projects
+## 🗺️ Level Select (Projects)
 
+| Level | Quest | What I built | Loot (Tech) | Status |
+| :---: | ----- | ------------ | ----------- | :----: |
+| 1 | **Modern Java Chat App** <br> *Mar 2024 - May 2024* | Multi-client real-time chat using sockets and multithreading | Java, Swing, Sockets | ✅ Cleared |
+| 2 | **Bookstore Management** <br> *Aug 2024 - Oct 2024* | CRUD web app with inventory, search, pagination, and Blade templates | Laravel, PHP, MySQL | ✅ Cleared |
+| 3 | **SecureVault** <br> *Jan 2025 - Mar 2025* | Password manager with AES-encrypted storage, GUI and terminal versions | Java, AES | ✅ Cleared |
+| 4 | **Elevator Simulation** <br> *May 2025 - Jun 2025* | Multi-floor elevator with animated movement and passenger scheduling | Java, Swing, AWT | ✅ Cleared |
+| 5 | **CampusShare** <br> *Aug 2025 - Dec 2025* | Desktop platform for resource sharing, announcements, and events | Java, Swing, PostgreSQL, SQLite | ✅ Cleared |
+| 6 | **UniSync** <br> *Jan 2026 - Present* | Cross-platform app with auth, chat, announcements, and real-time data | Flutter, Dart, Supabase | 🔥 Boss fight |
 
-| Project                                                     | Description                                                                                                                                  | Tech                            |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| **UniSync** <br> *Jan 2026 - Present*                       | Cross-platform mobile app for students and faculty with authentication, announcements, chat, and resource sharing, backed by real-time data. | Flutter, Dart, Supabase         |
-| **CampusShare** <br> *Aug 2025 - Dec 2025*                  | Desktop platform for academic resource sharing with announcements, file sharing, and event management modules.                               | Java, Swing, PostgreSQL, SQLite |
-| **Elevator Simulation** <br> *May 2025 - Jun 2025*          | Multi-floor elevator simulation with animated movement, passenger scheduling, and real-time visualization.                                   | Java, Swing, AWT                |
-| **SecureVault** <br> *Jan 2025 - Mar 2025*                  | Password manager with AES-encrypted credential storage, available as both GUI and terminal versions.                                         | Java, AES Encryption            |
-| **Bookstore Management System** <br> *Aug 2024 - Oct 2024*  | CRUD web app with inventory management, search, pagination, and responsive Blade templates.                                                  | Laravel, PHP, MySQL             |
-| **Modern Java Chat Application** <br> *Mar 2024 - May 2024* | Multi-client real-time chat using sockets and multithreading for concurrent communication.                                                   | Java, Swing, Sockets            |
+▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓
 
----
-
-## 🎓 Education
+## 🏫 Training Grounds
 
 **B.Sc. in Computer Science & Engineering** | Expected 2027
 
-Relevant coursework: Software Engineering, Data Structures & Algorithms, Database Systems, Computer Networks, Artificial Intelligence, Compiler Design, Operating Systems
+Unlocked modules: Software Engineering, Data Structures & Algorithms, Database Systems, Computer Networks, Artificial Intelligence, Compiler Design, Operating Systems
 
----
+## 🏆 Achievements Unlocked
 
-## 📜 Courses & Certifications
+- 🥇 Git Fundamentals Certification
+- 🥇 Python Programming Certification
+- 🥇 Full Stack Web Development 101
+- 🥇 Workplace Communication Essentials
+- 🥇 Art of Problem Definition
+- 🥇 J.P. Morgan Software Engineering Virtual Experience
 
-- Git Fundamentals Certification
-- Python Programming Certification
-- Full Stack Web Development 101
-- Workplace Communication Essentials
-- Art of Problem Definition
-- J.P. Morgan Software Engineering Virtual Experience
+▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓▓▒░░▒▓
 
----
-
-## 📊 GitHub Stats
+## 📊 Player Stats
 
 <div align="center">
 
-![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&theme=tokyonight&hide_border=true)
+![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&theme=radical&hide_border=true)
 
-![GitHub streak](https://streak-stats.demolab.com?user=ZannatulRaian&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=ZannatulRaian&theme=radical&hide_border=true)
 
 </div>
 
----
-
 <div align="center">
 
-⭐ Open to internships, collaborations, and open source contributions. Let's build something together!
+<br>
+
+**🎮 GAME CONTINUES... Open to internships, collaborations, and open source quests. Co-op mode is always on! 👾**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
 
 </div>
