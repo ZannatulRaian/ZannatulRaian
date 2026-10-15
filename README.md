@@ -95,7 +95,7 @@ Relevant coursework: Software Engineering, Data Structures & Algorithms, Databas
 
 <div align="center">
 
-![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true)
+![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=ZannatulRaian&theme=tokyonight&hide_border=true)
