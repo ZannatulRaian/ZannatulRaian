@@ -95,12 +95,14 @@ Relevant coursework: Software Engineering, Data Structures & Algorithms, Databas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZannatulRaian&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=contribs" alt="GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&hide_rank=true&hide=contribs&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&border_color=30363d&border_radius=6">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ZannatulRaian&show_icons=true&hide_rank=true&hide=contribs&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de&border_radius=6" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&border_color=30363d&border_radius=6">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatulRaian&layout=compact&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=0969da&border_color=d0d7de&border_radius=6" height="170" />
+</picture>
 
 </div>
 
